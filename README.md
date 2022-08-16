@@ -10,12 +10,12 @@
   <img  alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img  alt="React" height="40" width="40" src="https://img.icons8.com/color/344/react-native.png" />
  
- #
 
-  <div align="left"> 
+  <div align="center"> 
   <a href = "mailto:cecicaporale16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariaceciliacaporale" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+ 
+ #
   
 <div align="center">
   <a href="https://github.com/ceciliacaporale">
