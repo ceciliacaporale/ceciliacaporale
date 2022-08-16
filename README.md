@@ -1,8 +1,8 @@
 <div align="center">
   <h1>	&lt; front-end	developer &frasl;	&gt; </h1>
  </div>
- <div align=left >
- <img align="center" alt="GIF" height="300" width="300" src="https://media1.giphy.com/media/UZQCbV4OW1mXdHJNPS/giphy.gif?cid=790b7611098a9114cfb54f5813c86173b337ae4624fccc92&rid=giphy.gif&ct=g"
+ <div align="center">
+ <img align="center" alt="GIF" height="250" width="250" src="https://media1.giphy.com/media/UZQCbV4OW1mXdHJNPS/giphy.gif?cid=790b7611098a9114cfb54f5813c86173b337ae4624fccc92&rid=giphy.gif&ct=g"
  </div>
 <div style="display: inline_block"><br>
   <img  alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
