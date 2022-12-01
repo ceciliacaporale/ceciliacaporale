@@ -11,13 +11,7 @@
   <img  alt="React" height="40" width="40" src="https://img.icons8.com/color/344/react-native.png" />
    <img  alt="Next-js" height="40" width="40" src="https://camo.githubusercontent.com/b98f6eeef1cfba62b9bd1e3b7dc0145959f989789fbc0c98071a437a18c32715/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2d776f72646d61726b2e737667" />
    
-   
-   <div>
-   <img  alt="Git" height="40" width="40" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" />
-   <img  alt="Yarn" height="40" width="40" src="https://camo.githubusercontent.com/48c9b2462251996a559a073c2b6753ab90c2144cf5345080024a15cb5d9ae5b5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7961726e2f7961726e2d6f726967696e616c2e737667" />
-   <img  alt="npm" height="40" width="40" src="https://camo.githubusercontent.com/adb5a4ad9ef6595b2588c371f02296da3cb3533f4a7387a19f0818501e75f2ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e706d2f6e706d2d6f726967696e616c2d776f72646d61726b2e737667" />
-   </div>
-   
+
 
   <div align="center"> 
   <a href = "mailto:cecicaporale16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
