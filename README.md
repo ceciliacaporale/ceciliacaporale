@@ -19,12 +19,6 @@
   <a href="https://www.linkedin.com/in/mariaceciliacaporale" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  #
-  
-<div align="center">
-  <a href="https://github.com/ceciliacaporale">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ceciliacaporale&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/> <br>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliacaporale&layout=compact&langs_count=7&theme=slateorange"/>
-</div>
 
   
 ##
